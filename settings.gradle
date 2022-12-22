@@ -1,0 +1,4 @@
+rootProject.name = "droi_joy"
+include ':presentation'
+include ':domain'
+include ':data'
