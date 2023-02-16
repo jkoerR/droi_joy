@@ -22,10 +22,7 @@ class MainActivity : BaseActivity() {
     override fun _init() {
         initTap()
 
-        val bbbbbb = "2222222"
-        val aaa= "11111"
-        val b4444= "44444"
-        val b2222 = "b222"
+        val b2 = "b2"
     }
 
     private fun initTap() {
