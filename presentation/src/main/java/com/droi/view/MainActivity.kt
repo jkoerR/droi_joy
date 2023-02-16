@@ -21,6 +21,8 @@ class MainActivity : BaseActivity() {
 
     override fun _init() {
         initTap()
+
+        val bbbbbb = "2222222"
     }
 
     private fun initTap() {
