@@ -23,6 +23,7 @@ class MainActivity : BaseActivity() {
         initTap()
         val b4 = "b4"
 
+        val b1 = "b1"
     }
 
     private fun initTap() {
