@@ -29,7 +29,7 @@ class MainActivity : BaseActivity() {
         val fff= "444"
 
         val b4444= "44444"
-4
+        val b2222 = "b222"
     }
 
     private fun initTap() {
