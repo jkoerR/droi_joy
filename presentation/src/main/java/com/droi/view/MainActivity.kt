@@ -24,6 +24,9 @@ class MainActivity : BaseActivity() {
 
         val bbbbbb = "2222222"
         val aaa= "11111"
+        val ccc= "333"
+        val ddd= "444"
+        val fff= "444"
 
     }
 
