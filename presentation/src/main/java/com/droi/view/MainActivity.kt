@@ -21,6 +21,8 @@ class MainActivity : BaseActivity() {
 
     override fun _init() {
         initTap()
+
+        val aaa= "11111"
     }
 
     private fun initTap() {
