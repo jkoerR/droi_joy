@@ -21,7 +21,7 @@ class MainActivity : BaseActivity() {
 
     override fun _init() {
         initTap()
-        val d1 = "d1"
+        val f4 = "f4"
     }
 
     private fun initTap() {
