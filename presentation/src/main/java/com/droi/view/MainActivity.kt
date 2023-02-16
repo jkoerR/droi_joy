@@ -23,10 +23,8 @@ class MainActivity : BaseActivity() {
         initTap()
 
         val bbbbbb = "2222222"
-
         val aaa= "11111"
 
-        val bbbbbb = "2222222"
     }
 
     private fun initTap() {
