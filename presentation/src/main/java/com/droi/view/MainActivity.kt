@@ -25,7 +25,7 @@ class MainActivity : BaseActivity() {
         val bbbbbb = "2222222"
         val aaa= "11111"
         val b4444= "44444"
-4
+        val b2222 = "b222"
     }
 
     private fun initTap() {
