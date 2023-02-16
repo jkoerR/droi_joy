@@ -28,6 +28,8 @@ class MainActivity : BaseActivity() {
         val ddd= "444"
         val fff= "444"
 
+        val b4444= "44444"
+4
     }
 
     private fun initTap() {
