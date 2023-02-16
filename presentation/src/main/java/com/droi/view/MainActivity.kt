@@ -25,7 +25,6 @@ class MainActivity : BaseActivity() {
         val b1 = "b1"
         val b2 = "b2"
 
-
     }
 
     private fun initTap() {
